@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Solutions for Advent of Code problems",
+  "main": "index.mjs",
+  "scripts": {
+    "day": "node -r dotenv/config index.mjs"
+  },
+  "author": "Danil Katashev <dev@danilkatashev.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "10.0.0",
+    "node-fetch": "3.1.0"
+  }
+}
