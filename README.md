@@ -14,6 +14,7 @@ npm install
 COOKIE="session=qwerty12345"
 ```
 You can get it from request header `cookie` or from browser cookies, obviously.
+
 3. Run the command:
 ```bash
 # for day 1 of year 2021
